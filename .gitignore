@@ -1,0 +1,6 @@
+**.DS_Store
+**.swp
+**.retry
+.do_pat
+.terraform*
+terraform.tfstate*
